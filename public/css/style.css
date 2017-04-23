@@ -1,0 +1,9 @@
+.divider{
+width:5px;
+height:auto;
+display:inline-block;
+}
+
+.img-responsive { 
+width:100%;
+}
