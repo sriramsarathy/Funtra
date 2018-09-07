@@ -21,6 +21,7 @@ app.get('/', function (req, res) {
   res.sendFile('/login.html', {root: publicPath});
 });
 
+
 //app.get('/', function (req, res) {
 //res.sendfile(__dirname + '/public/login.html', { root: __dirname + "/public/login.html" } );
 //});
